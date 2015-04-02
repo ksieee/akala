@@ -1,2 +1,2 @@
-# akala
-akala project
+# Akala
+Akala Project
